@@ -1,14 +1,15 @@
 # The Æther-Flow Interpretation of Relativity
 
-![The Æther-Flow Project ](https://github.com/user-attachments/assets/589d6d9e-fa70-497c-aa31-6561d299584c)
+<img width="2172" height="724" alt="readme-banner" src="https://github.com/user-attachments/assets/7c1f0459-daa4-478a-a2ed-bd4589585379" />
+
+
 ---
 
 <img width="30" height="30" align="center" src="https://github.com/user-attachments/assets/a8e0ea66-5d8f-43b3-8fff-2c3d74d57f53"> Alexander Ricciardi (Omega.py)
 
-This project is also hosted here: [AngryOwl/The-AEther](https://github.com/AngryOwlAI/The-AEther)
+> **This project was moved to: [AngryOwl/The-AEther-Flow](https://github.com/AngryOwlAI/The-AEther-Flow)**  
+> To further research, to derive General Relativity (GR) from "The Æther-Flow Antology."
 
-Futher research, the derivating of General Relativity from "The Æther-Flow Interpretation of Relativity" can be found here:
-[AngryOwl/The-AEther-GR-Derivation](https://github.com/AngryOwlAI/The-AEther-GR-Derivation)
 
 ---
 
