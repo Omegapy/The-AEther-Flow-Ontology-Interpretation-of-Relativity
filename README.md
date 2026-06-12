@@ -37,6 +37,14 @@ I am interested in how viable the process I used is for generating theoretical p
 - Gravity may be interpreted heuristically as the observer-level effect of matter locally reorganizing the surrounding `Æther-flow`, though this remains an interpretive picture rather than a completed first-principles derivation.
 - The ontology, therefore, provides the conceptual basis of the project, while the exact-closure manuscripts preserved here state the relativistic structure that is presently adopted mathematically.
 
+
+<p align="left">
+   Watch the Æther-Flow YouTube video:</br>
+  <a href="https://www.youtube.com/watch?v=psbk97rd9T8">
+    <img src="https://github.com/user-attachments/assets/7134da9c-977c-4312-8e2a-10a51bb2db28" alt="The Æther-Flow">
+  </a>
+</p>
+
 ## What This Repository Preserves
 
 This repository preserves the manuscript line, curated release assets, and supporting documentation for `The Æther-Flow Interpretation of Relativity`.
